@@ -56,7 +56,6 @@ body {
   display: grid;
   height: 100vh;
   place-content: center;
-
   background-color: var(--bg-color);
   color: var(--text-color);
 }
@@ -80,7 +79,6 @@ body {
   margin-top: 1.6rem;
   padding: 2.2rem 4rem;
   gap: 1.6rem;
-
   background-color: var(--controls-bg-color);
   border-radius: 999rem;
 }
